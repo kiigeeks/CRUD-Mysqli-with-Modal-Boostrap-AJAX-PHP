@@ -1,0 +1,3 @@
+reset data tabel:
+DELETE FROM tb_hewan;
+ALTER TABLE tb_hewan AUTO_INCREMENT = 1;
