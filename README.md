@@ -1,4 +1,4 @@
-# CRUD-PHP-Mysqi-with-Modal-Boostrap-AJAX
+# CRUD-PHP-Mysqli-with-Modal-Boostrap-AJAX
 
 - PHP
 - Mysqli
