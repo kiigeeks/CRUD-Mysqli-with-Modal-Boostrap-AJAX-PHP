@@ -1,1 +1,2 @@
-*.php linguist-detectable
+* text=auto
+*.php diff=php
